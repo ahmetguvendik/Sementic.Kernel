@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sementic.Kernel", "Sementic.Kernel\Sementic.Kernel.csproj", "{1A32DACD-7F24-4DF6-BA6D-172C35ED0727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SementicKernel.PromptTemplate", "SementicKernel.PromptTemplate\SementicKernel.PromptTemplate.csproj", "{9EEEAB18-33D7-4EE7-A666-485D8F5F32FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A32DACD-7F24-4DF6-BA6D-172C35ED0727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A32DACD-7F24-4DF6-BA6D-172C35ED0727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A32DACD-7F24-4DF6-BA6D-172C35ED0727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A32DACD-7F24-4DF6-BA6D-172C35ED0727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEEAB18-33D7-4EE7-A666-485D8F5F32FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEEAB18-33D7-4EE7-A666-485D8F5F32FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEEAB18-33D7-4EE7-A666-485D8F5F32FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEEAB18-33D7-4EE7-A666-485D8F5F32FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
